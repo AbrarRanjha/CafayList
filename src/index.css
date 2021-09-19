@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* html{
+  font-size: 55%;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+nav a:hover{
+    color: rgb(223, 235, 241) !important;
+    font-weight: bold;
+}
+
+.brand_name{
+ color: blue;
+
+
+}
+.btn_style{
+  border-radius: 20px;
+border: 2px solid rgb(70, 182, 247);
+ background-color: rgb(190, 245, 245);
+
+}
+.btn_style a:hover{
+  color: rgb(17, 7, 7);
+  transition: 0.5s;
+ 
+}
+.text-underline{
+ text-decoration: none;
+ color: black;
+}
+.heaad{
+  height: 400px;
+  width: 400px; 
+  
+}
+.heaad img{
+  border-radius: 50%;
+  margin-top:30%;
+  animation:up-down 2s infinite ease-in-out alternate-reverse both;
+ 
+}
+@keyframes up-down{
+  0%{
+  transform: translateY(10px);
+  }
+  100%{
+      transform: translateY(-10px);
+  }
+}
+.heading{
+  margin-top: auto;
+  font-size: 35px;
+  color: darkgrey;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+.heading2{
+  font-size: 25px;
+  color: darkgrey;
+}
+.brand_decoration{
+  font-size: x-large;
+  color:darkgrey;
+  font-weight: bold;
+
+}
+footer{
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+}
+.imgHeight{
+  height: 200px;
+}
+.font_size{
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(39, 39, 39, 0.582);
+}
+
+
+
