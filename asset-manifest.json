@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CafayList/static/css/main.6777a35d.chunk.css",
+    "main.js": "/CafayList/static/js/main.79ca3f3f.chunk.js",
+    "main.js.map": "/CafayList/static/js/main.79ca3f3f.chunk.js.map",
+    "runtime-main.js": "/CafayList/static/js/runtime-main.a02ba46e.js",
+    "runtime-main.js.map": "/CafayList/static/js/runtime-main.a02ba46e.js.map",
+    "static/css/2.07120c43.chunk.css": "/CafayList/static/css/2.07120c43.chunk.css",
+    "static/js/2.b14eb417.chunk.js": "/CafayList/static/js/2.b14eb417.chunk.js",
+    "static/js/2.b14eb417.chunk.js.map": "/CafayList/static/js/2.b14eb417.chunk.js.map",
+    "index.html": "/CafayList/index.html",
+    "precache-manifest.421182c6ea54d8739f4fe2aa96b1c719.js": "/CafayList/precache-manifest.421182c6ea54d8739f4fe2aa96b1c719.js",
+    "service-worker.js": "/CafayList/service-worker.js",
+    "static/css/2.07120c43.chunk.css.map": "/CafayList/static/css/2.07120c43.chunk.css.map",
+    "static/css/main.6777a35d.chunk.css.map": "/CafayList/static/css/main.6777a35d.chunk.css.map",
+    "static/js/2.b14eb417.chunk.js.LICENSE.txt": "/CafayList/static/js/2.b14eb417.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a02ba46e.js",
+    "static/css/2.07120c43.chunk.css",
+    "static/js/2.b14eb417.chunk.js",
+    "static/css/main.6777a35d.chunk.css",
+    "static/js/main.79ca3f3f.chunk.js"
+  ]
+}
